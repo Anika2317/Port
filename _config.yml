@@ -16,10 +16,17 @@
 
 title: Open Coding 
 description: "Class of 2026"
+<<<<<<< HEAD
 owner_name: Anika Seksaria
 github_username: anika2317 
 github_repo: "Port" 
 baseurl: "/Port" 
+=======
+owner_name: John Mortensen
+github_username: jm1021 
+github_repo: "portfolio" 
+baseurl: "/portfolio" 
+>>>>>>> upstream/main
 future: true
 
 # Build settings
